@@ -8,7 +8,7 @@ namespace AW23_PRRPRR01_01_Kursintro {
 	internal class Program {
 		static void Main(string[] args) {
 
-			Console.WriteLine("Hello world");
+			Console.WriteLine("Goodbye world");
 
 		}
 	}
